@@ -37,58 +37,21 @@ SegNet is another popular deep learning model for semantic segmentation. It is c
 
 ## Dataset
 
-The images are densely labeled and contain the following classes:
+- **Building**: `#3C1098`
+- **Land (unpaved area)**: `#8429F6`
+- **Road**: `#6EC1E4`
+- **Vegetation**: `#FEDD3A`
+- **Water**: `#E2A929`
+- **Unlabeled**: `#9B9B9B`
 
-<table>
-  <tr>
-    <th>Name</th>
-    <th>R</th>
-    <th>G</th>
-    <th>B</th>
-    <th>Color</th>
-  </tr>
-  <tr>
-    <td>Building</td>
-    <td>60</td>
-    <td>16</td>
-    <td>152</td>
-    <td style="background-color: rgb(60, 16, 152); width: 50px;">&nbsp;</td>
-  </tr>
-  <tr>
-    <td>Land</td>
-    <td>132</td>
-    <td>41</td>
-    <td>246</td>
-    <td style="background-color: rgb(132, 41, 246); width: 50px;">&nbsp;</td>
-  </tr>
-  <tr>
-    <td>Road</td>
-    <td>110</td>
-    <td>193</td>
-    <td>228</td>
-    <td style="background-color: rgb(110, 193, 228); width: 50px;">&nbsp;</td>
-  </tr>
-  <tr>
-    <td>Vegetation</td>
-    <td>254</td>
-    <td>221</td>
-    <td>58</td>
-    <td style="background-color: rgb(254, 221, 58); width: 50px;">&nbsp;</td>
-  </tr>
-  <tr>
-    <td>Water</td>
-    <td>226</td>
-    <td>169</td>
-    <td>41</td>
-    <td style="background-color: rgb(226, 169, 41); width: 50px;">&nbsp;</td>
-  </tr>
-  <tr>
-    <td>Unlabeled</td>
-    <td>155</td>
-    <td>155</td>
-    <td>155</td>
-    <td style="background-color: rgb(155, 155, 155); width: 50px;">&nbsp;</td>
-  </tr>
-</table>
+
+# Sample Images & Masks
+
+<p align="center">
+  <img src="realimagevsmask" alt="Demo of the application" width="300"/>
+</p>
+
+
+
 
 
