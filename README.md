@@ -1,1 +1,1 @@
-![Demo of the application](images/demo.gif)
+![Demo of the application](satelliteimage.gif)
