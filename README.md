@@ -1,1 +1,1 @@
-# Sem_Seg_Unet_SegNet
+![Demo of the application](images/demo.gif)
